@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @khadija-batool
+- 👋 Hi, I’m khadija Batool
 - 👀 I’m interested in web technolgies
